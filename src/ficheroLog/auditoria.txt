@@ -1,0 +1,60 @@
+Menu empleado
+Cerrar Empleado
+Menu gerencia
+Cerrar gerencia
+Cerrar Menu
+Menu gerencia
+Crear nuevo cliente
+Menu gerencia
+Crear nuevo cliente
+Menu gerencia
+Crear nuevo cliente
+Cerrar gerencia
+Menu empleado
+Añadir compras a un cliente
+Menu gerencia
+Crear nuevo cliente
+Cerrar gerencia
+Menu empleado
+Añadir compras a un cliente
+Claculo total de ventas mensuales
+Añadir compras a un cliente
+Añadir compras a un cliente
+Claculo total de ventas mensuales
+Menu empleado
+Claculo total de ventas mensuales
+Menu empleado
+Claculo total de ventas mensuales
+Menu empleado
+Claculo total de ventas mensuales
+Menu empleado
+Claculo total de ventas mensuales
+Menu empleado
+Claculo total de ventas mensuales
+Cerrar Empleado
+Menu gerencia
+Crear nuevo cliente
+Cerrar gerencia
+Menu empleado
+Añadir compras a un cliente
+Claculo total de ventas mensuales
+Añadir compras a un cliente
+Claculo total de ventas mensuales
+Menu gerencia
+Crear nuevo cliente
+Cerrar gerencia
+Menu empleado
+Añadir compras a un cliente
+Añadir compras a un cliente
+Añadir compras a un cliente
+Claculo total de ventas mensuales
+Menu gerencia
+Crear nuevo cliente
+Menu empleado
+Añadir compras a un cliente
+Menu empleado
+Añadir compras a un cliente
+Menu empleado
+Añadir compras a un cliente
+Menu empleado
+Claculo total de ventas mensuales
